@@ -48,5 +48,14 @@
     <ClCompile Include="63_Ex.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="64_Ex.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="65_dynamic_allocation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="66_deep_copy.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
