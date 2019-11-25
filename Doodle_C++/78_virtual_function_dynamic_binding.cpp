@@ -10,7 +10,7 @@ public:
 		cout << "Weapon(int)" << endl;
 	}
 
-	virtual void Use() {//가상함순
+	virtual void Use() {//가상함수
 		cout << "Weapon::Use()" << endl;
 	}
 protected:

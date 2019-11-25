@@ -18,7 +18,6 @@ public:
 	}
 
 	int GetSendTime() const { return sendTime; }
-	string GetSendName() const { return sendName; }
 private:
 	int sendTime;
 	string sendName;
